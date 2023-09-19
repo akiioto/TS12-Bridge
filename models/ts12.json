@@ -1,0 +1,10 @@
+{
+    "FgModel":"ts12-YASim",
+    "Url":"https://github.com/akiioto/TS12/releases/download/Beta2/flightgear_ts12.zip",
+    "Controls": [
+                ["5","/controls/flight/aileron","-1"],
+                ["7","/controls/flight/elevator","-1"],
+                ["2","/controls/flight/rudder","1"],
+                ["4","/controls/engines/engine/throttle","1"]
+                ]
+}
